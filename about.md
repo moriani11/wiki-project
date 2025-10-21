@@ -8,4 +8,7 @@ Als verdediger bouw ik graag aan solide, betrouwbare back-end systemen. Als aanv
 
 Mijn hobby's buiten het programmeren, zoals voetbal en kickboksen, geven me de energie en de discipline die nodig zijn om elke technische uitdaging aan te gaan. Of het nu gaat om het verdedigen van een doel of het bouwen van een applicatie, ik ga altijd voor het beste resultaat.
 
-wijzigingszin voor een merge conflict!
+
+
+wijziging conflict!
+
